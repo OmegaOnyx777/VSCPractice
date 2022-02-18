@@ -3,11 +3,12 @@
 }
 body{
     background-color: aquamarine;
+    font-color: #023020;
 }
 /* David Ressler */
 p{
     font-size: large;
 }
-body{
-    font-color:  #023020;
+img{
+    border:1pt solid #707070;
 }
