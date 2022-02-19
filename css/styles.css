@@ -2,8 +2,8 @@
     --bs-primary-rgb: 0, 255, 100;
 }
 body{
-    background-color: aquamarine;
-    font-color: #023020;
+    background-color: crimson;
+    color: white;
 }
 /* David Ressler */
 p{
